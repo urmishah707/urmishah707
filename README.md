@@ -2,7 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF\&size=24\&width=600\&pause=1000\&speed=50\&lines=Welcome!+🚀;Projects%2C+experiments%2C+and+ideas+💡;Always+building+something+new+⚡)
 
-
 ## 🛠️ Skills
 
 **Languages & Databases**
