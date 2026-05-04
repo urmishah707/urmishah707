@@ -1,6 +1,6 @@
 ## Hello! My name is Urmi.
 
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=>+Initializing...;+Loading+skills...;+Access+granted;+Welcome+to+my+profile)
 
 ## 🛠️ Skills
 
