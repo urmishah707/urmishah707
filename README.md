@@ -1,8 +1,6 @@
 ## Hello! My name is Urmi.
 
-
-
-<!## 🛠️ Skills
+🛠️ Skills
 
 **Languages & Databases**
 
