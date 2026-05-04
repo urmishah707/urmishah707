@@ -1,4 +1,6 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0080&center=true&width=435&lines=Hello!+My+name+is+Urmi+%F0%9F%8C%9F)](https://git.io/typing-svg)
+## Hello! My name is Urmi.
+
+
 
 ## 🛠️ Skills
 
